@@ -1,1 +1,1 @@
-# otus_study_js
+Создано в рамках курса OTUS JavaScript QA Engineer
