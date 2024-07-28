@@ -1,4 +1,3 @@
-
 const kolobok = (char_name: string): string => {
     switch (char_name) {
         case 'дедушка':
@@ -12,8 +11,6 @@ const kolobok = (char_name: string): string => {
     }
 }
 
-console.log(kolobok('дедушка'))
-
-
-
-
+const newYear = (char_name: string): string => {
+    return `${char_name}! ${char_name}! ${char_name}!`;
+}
